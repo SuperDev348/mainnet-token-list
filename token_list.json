@@ -1867,6 +1867,14 @@
       "symbol": "SOCKS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0050dF93449FBD9A3D8e2F2F6134c33afF46E1bA",
+      "name": "Shibion",
+      "symbol": "Shibion",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SuperDev348/mainnet-token-list/main/assets/shibion.png"
     }
   ],
   "version": {
